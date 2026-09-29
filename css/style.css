@@ -119,7 +119,7 @@ footer {
 /* Adapter a un ecran mobile              */
 /* ========================================================= */
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 720px) {
     /* Les figures passent en colonne verticale */
     #galerie {
         flex-direction: column;
